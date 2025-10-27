@@ -26,7 +26,6 @@
     "website": "18-702-algebra-ii-spring-2011"
   },
   "course_title": "Algebra II",
-  "hide_download": true,
   "course_description": "This undergraduate level course follows Algebra I. Topics include group representations, rings, ideals, fields, polynomial rings, modules, factorization, integers in quadratic number fields, field extensions, and Galois theory.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "21a9e0c5-8add-8d55-1dda-1563e549135b",
     "website": "18-702-algebra-ii-spring-2011"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

@@ -4,8 +4,6 @@ description: This resource contains information related to handout on the sevent
 file: /courses/18-702-algebra-ii-spring-2011/4ebf8b1ca041c015dd8fd86fd19c4198_MIT18_702S11_seventeengon5.pdf
 file_size: 84033
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
